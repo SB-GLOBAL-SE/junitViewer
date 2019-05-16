@@ -13,6 +13,7 @@ Usage:
 4. ...
 5. Profit!
 
-TODO: Make generic for system browser
-TODO: Fix the running instance issue
-TODO: upgrade to xunit-viewer
+TODO: 
+1. Make generic for system browser
+2. Fix the running instance issue
+3. upgrade to xunit-viewer
