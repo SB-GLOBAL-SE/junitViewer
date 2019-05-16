@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DemoProject3" tests="62"  failures="9" time="326" >
+  <testsuite name="TC_Demonstration" tests="62" failures="9" hostname="SB-IE-9T7CPN2" time="325" timestamp="2019-05-16T14:42:39.565+01:00">
+    <testcase name="ProjectTestItem7_1" time="11" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1" time="17" classname="TC_Demonstration">
+      <failure message="The object &quot;pageHttpSmartbeardermotShoppingc&quot; does not exist."></failure>
+    </testcase>
+    <testcase name="ProjectTestItem18" time="13" classname="TC_Demonstration">
+      <failure message="Unable to verify a value with the property checkpoint, because the target object does not exist."></failure>
+    </testcase>
+    <testcase name="ProjectTestItem13_1" time="13" classname="TC_Demonstration">
+      <failure message="The object &quot;navbarAwesomeShoppingStore&quot; does not exist."></failure>
+    </testcase>
+    <testcase name="ProjectTestItem14" time="76" classname="TC_Demonstration">
+      <failure message="The child test ProjectTestItem11_1 failed"></failure>
+      <failure message="The child test ProjectTestItem18 failed"></failure>
+      <failure message="The child test ProjectTestItem13_1 failed"></failure>
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1" time="3" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1" time="10" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_1" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1" time="36" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_2" time="5" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_1" time="24" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_2" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_2" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_2" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_3" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_2" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_2" time="23" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_1_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_4" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_1_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_1_1" time="23" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_3" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_3" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_3" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_5" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_3" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_3" time="23" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_1_2" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_1_2" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_1_2" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_6" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_1_2" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_1_2" time="23" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_2_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_2_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_2_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_7" time="1" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_2_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_2_1" time="24" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_1_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_1_1_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_8" time="11" classname="TC_Demonstration">
+      <failure message="The property checkpoint failed, because contentText does not equal (case-sensitive) &quot;Your order has submitted successfully.&quot;. See Details for additional information."></failure>
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_1_1_1" time="15" classname="TC_Demonstration">
+      <failure message="The child test ProjectTestItem18_8 failed"></failure>
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_1_1_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_1_1_1" time="31" classname="TC_Demonstration">
+      <failure message="The child test ProjectTestItem11_1_1_1_1_1 failed"></failure>
+    </testcase>
+    <testcase name="ProjectTestItem9_1_1_1_1_1_1" time="7" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem12_1_1_1_1_1_1" time="4" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem11_1_1_1_1_1_1" time="5" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem18_9" time="11" classname="TC_Demonstration">
+      <failure message="The property checkpoint failed, because contentText does not equal (case-sensitive) &quot;Your order has submitted successfully.&quot;. See Details for additional information."></failure>
+    </testcase>
+    <testcase name="ProjectTestItem13_1_1_1_1_1_1" time="2" classname="TC_Demonstration">
+    </testcase>
+    <testcase name="ProjectTestItem14_1_1_1_1_1" time="31" classname="TC_Demonstration">
+      <failure message="The child test ProjectTestItem18_9 failed"></failure>
+    </testcase>
+    <testcase name="ProjectTestItem17" time="1" classname="TC_Demonstration">
+    </testcase>
+  </testsuite>
+</testsuites>
